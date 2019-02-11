@@ -72,31 +72,31 @@ const Index = () => (
         <ProjectsWrapper>
           <ProjectCard
             title="Add + Drop"
-            link="https://www.behance.net/gallery/58937147/Freiheit"
+            link="https://lucyar.com"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
             Add and 
           </ProjectCard>
           <ProjectCard
-            title="Harry Potter"
-            link="https://www.behance.net/gallery/52915793/Harry-Potter"
+            title="Move + Drag"  
+            link="https://lucyar.com"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            I entered the DOCMA 2017 award with this Harry Potter inspired image.
+            Our move and drag feature allows you to drag content across different spatial rooms and environments to make sure you've considered every option. Whether that chair looks best in the Living Room or in the kids room, we want to make sure you've considered all the options. 
           </ProjectCard>
           <ProjectCard
-            title="Tomb Raider"
-            link="https://www.behance.net/gallery/43907099/Tomb-Raider"
+            title="Make notations"
+            link="https://lucyar.com"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            Recreation of a Tomb Raider Wallpaper (Fan Art)
+            Not sure if that table will fit into the kitchen? Use our drawing feature to make a note about it and come back to it later. 
           </ProjectCard>
           <ProjectCard
-            title="Eagle"
-            link="https://www.behance.net/gallery/38068151/Eagle"
+            title="Sharing Feature"
+            link="https://lucyar.com"
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            A fantasy image manipulation relocating the habitat of wild animals.
+            Don't know whether 
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
@@ -116,7 +116,7 @@ const Index = () => (
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
-            Say <a href="mailto:plizNoSp4m@domain.tld">Say</a> hi and shoot us an email if you're interested in learning more. {' '}
+            Say <a href="mailto:plizNoSp4m@domain.tld">hi</a> and shoot us an email if you're interested in learning more. Our application is coming to the Google Play Store by March 2019. {' '}
             
           </ContactText>
         </Inner>
