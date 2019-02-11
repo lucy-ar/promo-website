@@ -123,7 +123,7 @@ const Index = () => (
         <Footer>
           &copy; 2019 Copyright LucyAR {' '}
           <a href="https://github.com/lucyar/promo-website">Github Repository</a>. Made by{' '}
-          <a href="https://www.lekoarts.de">LucyAR Team with </a>.
+          <a href="https://www.lucyar.com">LucyAR Team with </a>.
         </Footer>
       </Contact>
     </Parallax>
