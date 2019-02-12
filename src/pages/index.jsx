@@ -18,6 +18,9 @@ import About from '../views/About'
 import Contact from '../views/Contact'
 
 import avatar from '../images/avatar.jpg'
+import adddrop from '../images/adddrop.jpg'
+import movedrag from '../images/movedrag.jpg'
+
 
 const ProjectsWrapper = styled.div`
   ${tw`flex flex-wrap justify-between mt-8`};
@@ -80,6 +83,7 @@ const Index = () => (
           <ProjectCard
             title="Move + Drag"  
             link="https://lucyar.com"
+            imageUrl: '/src/images/demo1.png',
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
             Our move and drag feature allows you to drag content across different spatial rooms and environments to make sure you've considered every option. Whether that chair looks best in the Living Room or in the kids room, we want to make sure you've considered all the options. 
@@ -122,8 +126,8 @@ const Index = () => (
         </Inner>
         <Footer>
           &copy; 2019 Copyright LucyAR {' '}
-          <a href="https://github.com/lucyar/promo-website">Github Repository</a>. Made by{' '}
-          <a href="https://www.lucyar.com">LucyAR Team with </a>.
+          <a href="https://github.com/lucyar">Github Repository</a>. Made by{' '}
+          <a href="https://www.lucyar.com">LucyAR Team </a>.
         </Footer>
       </Contact>
     </Parallax>
