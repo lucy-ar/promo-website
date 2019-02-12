@@ -79,10 +79,9 @@ const Index = () => (
           <ProjectCard
             title="Move + Drag"  
             link="https://lucyar.com"
-            imageUrl: '/src/images/demo1.png',
             bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
           >
-            Our move and drag feature allows you to drag content across different spatial rooms and environments to make sure you've considered every option. Whether that chair looks best in the Living Room or in the kids room, we want to make sure you've considered all the options. 
+            Our move and drag feature allows you to drag content across different spatial rooms and environments to make sure you've considered every option. 
           </ProjectCard>
           <ProjectCard
             title="Make notations"
