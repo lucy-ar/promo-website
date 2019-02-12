@@ -17,10 +17,6 @@ import Projects from '../views/Projects'
 import About from '../views/About'
 import Contact from '../views/Contact'
 
-import avatar from '../images/avatar.jpg'
-import adddrop from '../images/adddrop.jpg'
-import movedrag from '../images/movedrag.jpg'
-
 
 const ProjectsWrapper = styled.div`
   ${tw`flex flex-wrap justify-between mt-8`};
@@ -109,7 +105,7 @@ const Index = () => (
         <AboutHero>
           <Avatar src={avatar} alt="Greg" />
           <AboutSub>
-            After travelling for exchange and 
+            After travelling for exchange and user discovered that 
           </AboutSub>
         </AboutHero>
         <AboutDesc>
@@ -120,14 +116,14 @@ const Index = () => (
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
-            Say <a href="mailto:plizNoSp4m@domain.tld">hi</a> and shoot us an email if you're interested in learning more. Our application is coming to the Google Play Store by March 2019. {' '}
+            Say <a href="mailto:plizNoSp4m@domain.tld">hi</a> and shoot us an email if you're interested in learning more. Our application is expected to come to the Google Play Store by March 2019. {' '}
             
           </ContactText>
         </Inner>
         <Footer>
           &copy; 2019 Copyright LucyAR {' '}
           <a href="https://github.com/lucyar">Github Repository</a>. Made by{' '}
-          <a href="https://www.lucyar.com">LucyAR Team </a>.
+          <a href="https://www.lucyar.com">LucyAR Team</a>.
         </Footer>
       </Contact>
     </Parallax>
