@@ -7,7 +7,7 @@ module.exports = {
   siteTitleAlt: 'Lucy', // Alternative Site title for SEO
   siteTitleShort: 'Lucy', // short_name for manifest
   siteHeadline: 'Empowering architectural creativity', // Headline for schema.org JSONLD
-  siteUrl: 'https://lucyar.com, // Domain of your site. No trailing slash!
+  siteUrl: 'https://lucyar.com,' // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logo.png', // Used for SEO and manifest
   siteDescription: 'Playful & Colorful One-Page website with Parallax effect',
